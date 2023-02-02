@@ -59,7 +59,8 @@ class _weatherState extends State<weather> {
                       borderRadius: BorderRadius.circular(24)),
                   hintText: 'Mogadisho',
                   hintStyle: TextStyle(
-                      fontSize: 20.0, color: Color.fromARGB(255, 43, 43, 43)),
+                      fontSize: 12.0,
+                      color: Color.fromARGB(255, 122, 122, 122)),
                   labelText: 'Enter Your City '),
             ),
           ),
